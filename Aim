@@ -1,2 +1,5 @@
 To clean and analyse three files and merge them according to the instructions provided. Finally
-perform a hypothesis test on the hypothesis given in the description
+perform a hypothesis test on the hypothesis given in the description.
+first step is to get a list of all university towns
+Analysis includes getting details about the recession period based on GDP data- start, end and bottom. The cleaning involves
+converting the given housing data into quarter wise segments.
